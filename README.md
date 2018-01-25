@@ -1,2 +1,2 @@
-# Vasilyev-A.N.
+# Vasilyev A.N.
 Решение задач из книги на C++
